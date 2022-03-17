@@ -18,7 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/03/BD_Livros-Logo-2-150x150.png</url>
+	<title>bdlivrosadmin &#8211; BD Livros</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Olá, mundo!</title>
 		<link>./../../../ola-mundo/index.html</link>
